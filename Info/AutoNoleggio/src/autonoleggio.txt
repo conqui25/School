@@ -1,0 +1,4 @@
+Furgone, sop47ui, 90, Ford, Transit, 70, 2017, 150, 100
+Auto, ty4589, 80, Ford, Focus, 70, 2020, 120, 4
+Auto, ch45, 4, Fiat, 500, 60, 2017, 60, 4
+Furgone, dty67, 6, Fiat, Ducato, 70, 2020, 80, 85
